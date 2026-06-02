@@ -129,3 +129,8 @@ dynamic-clock
 ## Author
 
 Developed as part of a React and npm learning exercise demonstrating React components, hooks, and npm package management.
+
+
+
+<img width="1908" height="973" alt="image" src="https://github.com/user-attachments/assets/4fc18981-d3ee-4555-9977-c8ef9323ab58" />
+
